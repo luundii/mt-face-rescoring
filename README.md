@@ -28,5 +28,6 @@ The first folder contains three Jupyter Notebooks covering the data preparation 
 The second folder contains three sub-directories (one for each model) which contain the nessecary scripts to train and evaluate the models. 
 ## Built With
 
+* Jupyter Notebook
 * Python 3.10
 * Tensorflow 2.12
